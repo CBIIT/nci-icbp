@@ -1,0 +1,280 @@
+HTTrack3.48-22+htsswf+htsjava launched on Thu, 29 Sep 2016 15:19:55 at icbp.nci.nih.gov +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" icbp.nci.nih.gov -O1 "C:\site_migration\icbp_site2\ICBP2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:21:45	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/resources/resources.jpg: Permission denied
+15:21:45	Warning: 	file not stored in cache due to bogus state (broken size, expected 12452 got 0): icbp.nci.nih.gov/resources/resources.jpg
+15:21:50	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/education.jpg: Permission denied
+15:21:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 35055 got 0): icbp.nci.nih.gov/education-and-outreach/education.jpg
+15:21:54	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/resources/data_portal.jpg: Permission denied
+15:21:54	Warning: 	file not stored in cache due to bogus state (broken size, expected 15872 got 0): icbp.nci.nih.gov/resources/data_portal.jpg
+15:22:10	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/dg.jpg: Permission denied
+15:22:10	Warning: 	file not stored in cache due to bogus state (broken size, expected 4208 got 0): icbp.nci.nih.gov/about/dg.jpg
+15:22:12	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/jc.jpg: Permission denied
+15:22:12	Warning: 	file not stored in cache due to bogus state (broken size, expected 4448 got 0): icbp.nci.nih.gov/about/jc.jpg
+15:22:12	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/cs.jpg: Permission denied
+15:22:12	Warning: 	file not stored in cache due to bogus state (broken size, expected 5589 got 0): icbp.nci.nih.gov/about/cs.jpg
+15:22:12	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/jl.jpg: Permission denied
+15:22:12	Warning: 	file not stored in cache due to bogus state (broken size, expected 4888 got 0): icbp.nci.nih.gov/about/jl.jpg
+15:22:12	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/eb.jpg: Permission denied
+15:22:12	Warning: 	file not stored in cache due to bogus state (broken size, expected 5592 got 0): icbp.nci.nih.gov/about/eb.jpg
+15:22:13	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/bt.jpg: Permission denied
+15:22:13	Warning: 	file not stored in cache due to bogus state (broken size, expected 4680 got 0): icbp.nci.nih.gov/about/bt.jpg
+15:22:13	Error: 	"Not Found" (404) at link icbp.nci.nih.gov/portal_css/ICBP Theme/indicator.gif (from icbp.nci.nih.gov/portal_css/ICBP Theme/resourceplone.formwidget.autocompletejquery.autocomplete-cachekey0423.css)
+15:22:13	Error: 	"Not Found" (404) at link icbp.nci.nih.gov/portal_css/ICBP Theme/rotatingbanner/home-banner-icon-podcast.png (from icbp.nci.nih.gov/portal_css/ICBP Theme/ploneCustom-cachekey8312.css)
+15:22:13	Error: 	"Not Found" (404) at link icbp.nci.nih.gov/portal_css/ICBP Theme/rotatingbanner/home-banner-icon-text.png (from icbp.nci.nih.gov/portal_css/ICBP Theme/ploneCustom-cachekey8312.css)
+15:22:13	Error: 	"Not Found" (404) at link icbp.nci.nih.gov/click.T (from icbp.nci.nih.gov/portal_javascripts/ICBP Theme/jquery-integration-cachekey3788.js)
+15:22:26	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/resources/biological_resources/bio1.jpg: Permission denied
+15:22:26	Warning: 	file not stored in cache due to bogus state (broken size, expected 15803 got 0): icbp.nci.nih.gov/resources/biological_resources/bio1.jpg
+15:22:52	Warning: 	Retry after error 500 (Internal Server Error) at link icbp.nci.nih.gov/icbp-news/multiscale-cancer-systems-biology-symposium (from icbp.nci.nih.gov/sitemap)
+15:22:55	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/scr.jpg: Permission denied
+15:22:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 73720 got 0): icbp.nci.nih.gov/education-and-outreach/scr.jpg
+15:22:55	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/jr.jpg: Permission denied
+15:22:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 11500 got 0): icbp.nci.nih.gov/education-and-outreach/jr.jpg
+15:22:55	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/2014_ICBP_Centers_brochure_12.12_2.docx: Permission denied
+15:22:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 3917211 got 0): icbp.nci.nih.gov/education-and-outreach/2014_ICBP_Centers_brochure_12.12_2.docx
+15:23:02	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/2014_ICBP_Summer_Project_Descriptions.docx: Permission denied
+15:23:02	Warning: 	file not stored in cache due to bogus state (broken size, expected 48203 got 0): icbp.nci.nih.gov/education-and-outreach/copy_of_2014_ICBP_Summer_Project_Descriptions.docx
+15:23:02	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/online_material.jpg: Permission denied
+15:23:02	Warning: 	file not stored in cache due to bogus state (broken size, expected 30860 got 0): icbp.nci.nih.gov/education-and-outreach/online_material.jpg
+15:23:07	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/group.jpg: Permission denied
+15:23:07	Warning: 	file not stored in cache due to bogus state (broken size, expected 24974 got 0): icbp.nci.nih.gov/education-and-outreach/group.jpg
+15:23:08	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/jr_investigators/jr.jpg: Permission denied
+15:23:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 40684 got 0): icbp.nci.nih.gov/education-and-outreach/jr_investigators/jr.jpg
+15:23:26	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/graduate.jpg: Permission denied
+15:23:26	Warning: 	file not stored in cache due to bogus state (broken size, expected 12194 got 0): icbp.nci.nih.gov/education-and-outreach/graduate.jpg
+15:23:27	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/postdoctoral_training.jpg: Permission denied
+15:23:27	Warning: 	file not stored in cache due to bogus state (broken size, expected 12599 got 0): icbp.nci.nih.gov/education-and-outreach/postdoctoral_training.jpg
+15:23:32	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/workshops.jpg: Permission denied
+15:23:32	Warning: 	file not stored in cache due to bogus state (broken size, expected 37914 got 0): icbp.nci.nih.gov/education-and-outreach/workshops.jpg
+15:23:33	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/public-education.jpg: Permission denied
+15:23:33	Warning: 	file not stored in cache due to bogus state (broken size, expected 42746 got 0): icbp.nci.nih.gov/education-and-outreach/public-education.jpg
+15:23:48	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/cellmig.gif: Permission denied
+15:23:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 42326 got 0): icbp.nci.nih.gov/education-and-outreach/cellmig.gif
+15:23:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/fertig.jpg: Permission denied
+15:23:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 49036 got 0): icbp.nci.nih.gov/education-and-outreach/fertig.jpg
+15:23:50	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/tumour_breast_ani.gif: Permission denied
+15:23:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 168853 got 0): icbp.nci.nih.gov/education-and-outreach/tumour_breast_ani.gif
+15:23:50	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/AcinusStain.gif: Permission denied
+15:23:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 367671 got 0): icbp.nci.nih.gov/education-and-outreach/AcinusStain.gif
+15:35:24	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 12452 expected)) at link icbp.nci.nih.gov/resources/resources.jpg (from icbp.nci.nih.gov/resources)
+15:35:24	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/resources/resources.jpg: Permission denied
+15:35:24	Warning: 	file not stored in cache due to bogus state (broken size, expected 12452 got 0): icbp.nci.nih.gov/resources/resources.jpg
+15:35:26	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 35055 expected)) at link icbp.nci.nih.gov/education-and-outreach/education.jpg (from icbp.nci.nih.gov/education-and-outreach)
+15:35:26	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/education.jpg: Permission denied
+15:35:26	Warning: 	file not stored in cache due to bogus state (broken size, expected 35055 got 0): icbp.nci.nih.gov/education-and-outreach/education.jpg
+15:35:27	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 15872 expected)) at link icbp.nci.nih.gov/resources/data_portal.jpg (from icbp.nci.nih.gov/resources/data-portal)
+15:35:27	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/resources/data_portal.jpg: Permission denied
+15:35:27	Warning: 	file not stored in cache due to bogus state (broken size, expected 15872 got 0): icbp.nci.nih.gov/resources/data_portal.jpg
+15:35:37	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 4208 expected)) at link icbp.nci.nih.gov/about/dg.jpg (from icbp.nci.nih.gov/contact_us)
+15:35:38	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 4448 expected)) at link icbp.nci.nih.gov/about/jc.jpg (from icbp.nci.nih.gov/contact_us)
+15:35:38	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/jc.jpg: Permission denied
+15:35:38	Warning: 	file not stored in cache due to bogus state (broken size, expected 4448 got 0): icbp.nci.nih.gov/about/jc.jpg
+15:35:38	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/dg.jpg: Permission denied
+15:35:38	Warning: 	file not stored in cache due to bogus state (broken size, expected 4208 got 0): icbp.nci.nih.gov/about/dg.jpg
+15:35:38	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 5589 expected)) at link icbp.nci.nih.gov/about/cs.jpg (from icbp.nci.nih.gov/contact_us)
+15:35:38	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 4888 expected)) at link icbp.nci.nih.gov/about/jl.jpg (from icbp.nci.nih.gov/contact_us)
+15:35:39	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/cs.jpg: Permission denied
+15:35:39	Warning: 	file not stored in cache due to bogus state (broken size, expected 5589 got 0): icbp.nci.nih.gov/about/cs.jpg
+15:35:39	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/jl.jpg: Permission denied
+15:35:39	Warning: 	file not stored in cache due to bogus state (broken size, expected 4888 got 0): icbp.nci.nih.gov/about/jl.jpg
+15:35:39	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 5592 expected)) at link icbp.nci.nih.gov/about/eb.jpg (from icbp.nci.nih.gov/contact_us)
+15:35:39	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 4680 expected)) at link icbp.nci.nih.gov/about/bt.jpg (from icbp.nci.nih.gov/contact_us)
+15:35:39	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/eb.jpg: Permission denied
+15:35:39	Warning: 	file not stored in cache due to bogus state (broken size, expected 5592 got 0): icbp.nci.nih.gov/about/eb.jpg
+15:35:39	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/bt.jpg: Permission denied
+15:35:39	Warning: 	file not stored in cache due to bogus state (broken size, expected 4680 got 0): icbp.nci.nih.gov/about/bt.jpg
+15:35:42	Error: 	"Not Found" (404) at link icbp.nci.nih.gov/about/jc.jpg/image_preview (from icbp.nci.nih.gov/about/jc.jpg/view)
+15:35:43	Error: 	"Not Found" (404) at link icbp.nci.nih.gov/about/bt.jpg/image_preview (from icbp.nci.nih.gov/about/bt.jpg/view)
+15:35:45	Error: 	"Not Found" (404) at link icbp.nci.nih.gov/resources/michaelr@broadinstitute.org (from icbp.nci.nih.gov/resources/software)
+15:35:45	Error: 	"Not Found" (404) at link icbp.nci.nih.gov/resources/honig_software@c2b2.columbia.edu (from icbp.nci.nih.gov/resources/software)
+15:35:45	Error: 	"Not Found" (404) at link icbp.nci.nih.gov/resources/altanbog@mskcc.org (from icbp.nci.nih.gov/resources/software)
+15:35:47	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 15803 expected)) at link icbp.nci.nih.gov/resources/biological_resources/bio1.jpg (from icbp.nci.nih.gov/resources/biological_resources)
+15:35:47	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/resources/biological_resources/bio1.jpg: Permission denied
+15:35:47	Warning: 	file not stored in cache due to bogus state (broken size, expected 15803 got 0): icbp.nci.nih.gov/resources/biological_resources/bio1.jpg
+15:35:55	Error: 	"Not Found" (404) at link icbp.nci.nih.gov/resources/Pearlly.Yan@osumc.edu (from icbp.nci.nih.gov/resources/U01)
+15:35:57	Error: 	"Not Found" (404) at link icbp.nci.nih.gov/icbp-news/meetings-and-events/Meetings_2013 ICBP Training_Agenda_Apr 5 13 final rev1.doc (from icbp.nci.nih.gov/icbp-news/meetings-and-events/icbp-training-in-systems-cancer-biology-workshop)
+15:36:00	Error: 	"Not Found" (404) at link icbp.nci.nih.gov/icbp-news/news-and-announcements/BiomarkerIdentified.jpg/image_preview (from icbp.nci.nih.gov/icbp-news/news-and-announcements/BiomarkerIdentified.jpg/view)
+15:36:03	Warning: 	Retry after error 500 (Internal Server Error) at link icbp.nci.nih.gov/icbp-news/multiscale-cancer-systems-biology-symposium (from icbp.nci.nih.gov/sitemap)
+15:36:08	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 73720 expected)) at link icbp.nci.nih.gov/education-and-outreach/scr.jpg (from icbp.nci.nih.gov/education-and-outreach/summer)
+15:36:08	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/scr.jpg: Permission denied
+15:36:08	Warning: 	file not stored in cache due to bogus state (broken size, expected 73720 got 0): icbp.nci.nih.gov/education-and-outreach/scr.jpg
+15:36:08	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 11500 expected)) at link icbp.nci.nih.gov/education-and-outreach/jr.jpg (from icbp.nci.nih.gov/education-and-outreach/summer)
+15:36:09	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/jr.jpg: Permission denied
+15:36:09	Warning: 	file not stored in cache due to bogus state (broken size, expected 11500 got 0): icbp.nci.nih.gov/education-and-outreach/jr.jpg
+15:36:09	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 3917211 expected)) at link icbp.nci.nih.gov/education-and-outreach/2014_ICBP_Centers_brochure_12.12_2.docx (from icbp.nci.nih.gov/education-and-outreach/summer)
+15:36:10	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/2014_ICBP_Centers_brochure_12.12_2.docx: Permission denied
+15:36:10	Warning: 	file not stored in cache due to bogus state (broken size, expected 3917211 got 0): icbp.nci.nih.gov/education-and-outreach/2014_ICBP_Centers_brochure_12.12_2.docx
+15:36:10	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 48203 expected)) at link icbp.nci.nih.gov/education-and-outreach/copy_of_2014_ICBP_Summer_Project_Descriptions.docx (from icbp.nci.nih.gov/education-and-outreach/summer)
+15:36:16	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/2014_ICBP_Summer_Project_Descriptions.docx: Permission denied
+15:36:16	Warning: 	file not stored in cache due to bogus state (broken size, expected 48203 got 0): icbp.nci.nih.gov/education-and-outreach/copy_of_2014_ICBP_Summer_Project_Descriptions.docx
+15:36:17	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 30860 expected)) at link icbp.nci.nih.gov/education-and-outreach/online_material.jpg (from icbp.nci.nih.gov/education-and-outreach/online)
+15:36:18	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/online_material.jpg: Permission denied
+15:36:18	Warning: 	file not stored in cache due to bogus state (broken size, expected 30860 got 0): icbp.nci.nih.gov/education-and-outreach/online_material.jpg
+15:36:19	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 24974 expected)) at link icbp.nci.nih.gov/education-and-outreach/group.jpg (from icbp.nci.nih.gov/education-and-outreach/icbp_contact)
+15:36:20	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/group.jpg: Permission denied
+15:36:20	Warning: 	file not stored in cache due to bogus state (broken size, expected 24974 got 0): icbp.nci.nih.gov/education-and-outreach/group.jpg
+15:36:20	Error: 	"Not Found" (404) at link icbp.nci.nih.gov/education-and-outreach/axelrod@biology.rutgers.edu (from icbp.nci.nih.gov/education-and-outreach/icbp_contact)
+15:36:21	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 40684 expected)) at link icbp.nci.nih.gov/education-and-outreach/jr_investigators/jr.jpg (from icbp.nci.nih.gov/education-and-outreach/jr_investigators)
+15:36:21	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/jr_investigators/jr.jpg: Permission denied
+15:36:21	Warning: 	file not stored in cache due to bogus state (broken size, expected 40684 got 0): icbp.nci.nih.gov/education-and-outreach/jr_investigators/jr.jpg
+15:36:31	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 12194 expected)) at link icbp.nci.nih.gov/education-and-outreach/graduate.jpg (from icbp.nci.nih.gov/education-and-outreach/graduate-education)
+15:36:31	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/graduate.jpg: Permission denied
+15:36:31	Warning: 	file not stored in cache due to bogus state (broken size, expected 12194 got 0): icbp.nci.nih.gov/education-and-outreach/graduate.jpg
+15:36:32	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 12599 expected)) at link icbp.nci.nih.gov/education-and-outreach/postdoctoral_training.jpg (from icbp.nci.nih.gov/education-and-outreach/postdoctoral-training)
+15:36:32	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/postdoctoral_training.jpg: Permission denied
+15:36:32	Warning: 	file not stored in cache due to bogus state (broken size, expected 12599 got 0): icbp.nci.nih.gov/education-and-outreach/postdoctoral_training.jpg
+15:36:36	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 37914 expected)) at link icbp.nci.nih.gov/education-and-outreach/workshops.jpg (from icbp.nci.nih.gov/education-and-outreach/workshops)
+15:36:37	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/workshops.jpg: Permission denied
+15:36:37	Warning: 	file not stored in cache due to bogus state (broken size, expected 37914 got 0): icbp.nci.nih.gov/education-and-outreach/workshops.jpg
+15:36:37	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 42746 expected)) at link icbp.nci.nih.gov/education-and-outreach/public-education.jpg (from icbp.nci.nih.gov/education-and-outreach/public-education)
+15:36:38	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/public-education.jpg: Permission denied
+15:36:38	Warning: 	file not stored in cache due to bogus state (broken size, expected 42746 got 0): icbp.nci.nih.gov/education-and-outreach/public-education.jpg
+15:36:47	Error: 	"Not Found" (404) at link icbp.nci.nih.gov/education-and-outreach/group.jpg/image_preview (from icbp.nci.nih.gov/education-and-outreach/group.jpg/view)
+15:36:54	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 42326 expected)) at link icbp.nci.nih.gov/education-and-outreach/cellmig.gif (from icbp.nci.nih.gov/education-and-outreach/computational_models)
+15:36:55	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/cellmig.gif: Permission denied
+15:36:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 42326 got 0): icbp.nci.nih.gov/education-and-outreach/cellmig.gif
+15:36:55	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 49036 expected)) at link icbp.nci.nih.gov/education-and-outreach/fertig.jpg (from icbp.nci.nih.gov/education-and-outreach/computational_models)
+15:36:55	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 168853 expected)) at link icbp.nci.nih.gov/education-and-outreach/tumour_breast_ani.gif (from icbp.nci.nih.gov/education-and-outreach/computational_models)
+15:36:55	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/fertig.jpg: Permission denied
+15:36:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 49036 got 0): icbp.nci.nih.gov/education-and-outreach/fertig.jpg
+15:36:55	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 367671 expected)) at link icbp.nci.nih.gov/education-and-outreach/AcinusStain.gif (from icbp.nci.nih.gov/education-and-outreach/computational_models)
+15:36:56	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/tumour_breast_ani.gif: Permission denied
+15:36:56	Warning: 	file not stored in cache due to bogus state (broken size, expected 168853 got 0): icbp.nci.nih.gov/education-and-outreach/tumour_breast_ani.gif
+15:36:56	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/AcinusStain.gif: Permission denied
+15:36:56	Warning: 	file not stored in cache due to bogus state (broken size, expected 367671 got 0): icbp.nci.nih.gov/education-and-outreach/AcinusStain.gif
+15:37:41	Error: 	"Not Found" (404) at link icbp.nci.nih.gov/education-and-outreach/jr.jpg/image_preview (from icbp.nci.nih.gov/education-and-outreach/jr.jpg/view)
+15:37:53	Error: 	"Not Found" (404) at link icbp.nci.nih.gov/education-and-outreach/scr.jpg/image_preview (from icbp.nci.nih.gov/education-and-outreach/scr.jpg/view)
+15:41:39	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 12452 expected)) at link icbp.nci.nih.gov/resources/resources.jpg (from icbp.nci.nih.gov/resources)
+15:41:39	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 35055 expected)) at link icbp.nci.nih.gov/education-and-outreach/education.jpg (from icbp.nci.nih.gov/education-and-outreach)
+15:41:39	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 15872 expected)) at link icbp.nci.nih.gov/resources/data_portal.jpg (from icbp.nci.nih.gov/resources/data-portal)
+15:41:39	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 4208 expected)) at link icbp.nci.nih.gov/about/dg.jpg (from icbp.nci.nih.gov/contact_us)
+15:41:39	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/resources/resources.jpg: Permission denied
+15:41:39	Warning: 	file not stored in cache due to bogus state (broken size, expected 12452 got 0): icbp.nci.nih.gov/resources/resources.jpg
+15:41:39	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/education.jpg: Permission denied
+15:41:39	Warning: 	file not stored in cache due to bogus state (broken size, expected 35055 got 0): icbp.nci.nih.gov/education-and-outreach/education.jpg
+15:41:39	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/resources/data_portal.jpg: Permission denied
+15:41:39	Warning: 	file not stored in cache due to bogus state (broken size, expected 15872 got 0): icbp.nci.nih.gov/resources/data_portal.jpg
+15:41:40	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 4448 expected)) at link icbp.nci.nih.gov/about/jc.jpg (from icbp.nci.nih.gov/contact_us)
+15:41:40	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 5589 expected)) at link icbp.nci.nih.gov/about/cs.jpg (from icbp.nci.nih.gov/contact_us)
+15:41:40	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 4888 expected)) at link icbp.nci.nih.gov/about/jl.jpg (from icbp.nci.nih.gov/contact_us)
+15:41:40	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/dg.jpg: Permission denied
+15:41:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 4208 got 0): icbp.nci.nih.gov/about/dg.jpg
+15:41:40	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 5592 expected)) at link icbp.nci.nih.gov/about/eb.jpg (from icbp.nci.nih.gov/contact_us)
+15:41:40	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/jc.jpg: Permission denied
+15:41:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 4448 got 0): icbp.nci.nih.gov/about/jc.jpg
+15:41:40	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/cs.jpg: Permission denied
+15:41:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 5589 got 0): icbp.nci.nih.gov/about/cs.jpg
+15:41:40	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/jl.jpg: Permission denied
+15:41:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 4888 got 0): icbp.nci.nih.gov/about/jl.jpg
+15:41:40	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 4680 expected)) at link icbp.nci.nih.gov/about/bt.jpg (from icbp.nci.nih.gov/contact_us)
+15:41:40	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 15803 expected)) at link icbp.nci.nih.gov/resources/biological_resources/bio1.jpg (from icbp.nci.nih.gov/resources/biological_resources)
+15:41:40	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/eb.jpg: Permission denied
+15:41:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 5592 got 0): icbp.nci.nih.gov/about/eb.jpg
+15:41:41	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/bt.jpg: Permission denied
+15:41:41	Warning: 	file not stored in cache due to bogus state (broken size, expected 4680 got 0): icbp.nci.nih.gov/about/bt.jpg
+15:41:41	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/resources/biological_resources/bio1.jpg: Permission denied
+15:41:41	Warning: 	file not stored in cache due to bogus state (broken size, expected 15803 got 0): icbp.nci.nih.gov/resources/biological_resources/bio1.jpg
+15:41:41	Error: 	"Internal Server Error" (500) after 2 retries at link icbp.nci.nih.gov/icbp-news/multiscale-cancer-systems-biology-symposium (from icbp.nci.nih.gov/sitemap)
+15:41:41	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 73720 expected)) at link icbp.nci.nih.gov/education-and-outreach/scr.jpg (from icbp.nci.nih.gov/education-and-outreach/summer)
+15:41:41	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 11500 expected)) at link icbp.nci.nih.gov/education-and-outreach/jr.jpg (from icbp.nci.nih.gov/education-and-outreach/summer)
+15:41:41	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 3917211 expected)) at link icbp.nci.nih.gov/education-and-outreach/2014_ICBP_Centers_brochure_12.12_2.docx (from icbp.nci.nih.gov/education-and-outreach/summer)
+15:41:41	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 48203 expected)) at link icbp.nci.nih.gov/education-and-outreach/copy_of_2014_ICBP_Summer_Project_Descriptions.docx (from icbp.nci.nih.gov/education-and-outreach/summer)
+15:41:41	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/scr.jpg: Permission denied
+15:41:41	Warning: 	file not stored in cache due to bogus state (broken size, expected 73720 got 0): icbp.nci.nih.gov/education-and-outreach/scr.jpg
+15:41:41	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 30860 expected)) at link icbp.nci.nih.gov/education-and-outreach/online_material.jpg (from icbp.nci.nih.gov/education-and-outreach/online)
+15:41:41	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/jr.jpg: Permission denied
+15:41:41	Warning: 	file not stored in cache due to bogus state (broken size, expected 11500 got 0): icbp.nci.nih.gov/education-and-outreach/jr.jpg
+15:41:42	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/2014_ICBP_Centers_brochure_12.12_2.docx: Permission denied
+15:41:42	Warning: 	file not stored in cache due to bogus state (broken size, expected 3917211 got 0): icbp.nci.nih.gov/education-and-outreach/2014_ICBP_Centers_brochure_12.12_2.docx
+15:41:42	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/2014_ICBP_Summer_Project_Descriptions.docx: Permission denied
+15:41:42	Warning: 	file not stored in cache due to bogus state (broken size, expected 48203 got 0): icbp.nci.nih.gov/education-and-outreach/copy_of_2014_ICBP_Summer_Project_Descriptions.docx
+15:41:48	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 24974 expected)) at link icbp.nci.nih.gov/education-and-outreach/group.jpg (from icbp.nci.nih.gov/education-and-outreach/icbp_contact)
+15:41:48	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 40684 expected)) at link icbp.nci.nih.gov/education-and-outreach/jr_investigators/jr.jpg (from icbp.nci.nih.gov/education-and-outreach/jr_investigators)
+15:41:48	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 12194 expected)) at link icbp.nci.nih.gov/education-and-outreach/graduate.jpg (from icbp.nci.nih.gov/education-and-outreach/graduate-education)
+15:41:48	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/online_material.jpg: Permission denied
+15:41:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 30860 got 0): icbp.nci.nih.gov/education-and-outreach/online_material.jpg
+15:41:48	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 12599 expected)) at link icbp.nci.nih.gov/education-and-outreach/postdoctoral_training.jpg (from icbp.nci.nih.gov/education-and-outreach/postdoctoral-training)
+15:41:48	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/jr_investigators/jr.jpg: Permission denied
+15:41:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 40684 got 0): icbp.nci.nih.gov/education-and-outreach/jr_investigators/jr.jpg
+15:41:48	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/graduate.jpg: Permission denied
+15:41:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 12194 got 0): icbp.nci.nih.gov/education-and-outreach/graduate.jpg
+15:41:48	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/group.jpg: Permission denied
+15:41:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 24974 got 0): icbp.nci.nih.gov/education-and-outreach/group.jpg
+15:41:49	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 37914 expected)) at link icbp.nci.nih.gov/education-and-outreach/workshops.jpg (from icbp.nci.nih.gov/education-and-outreach/workshops)
+15:41:49	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 42746 expected)) at link icbp.nci.nih.gov/education-and-outreach/public-education.jpg (from icbp.nci.nih.gov/education-and-outreach/public-education)
+15:41:49	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 42326 expected)) at link icbp.nci.nih.gov/education-and-outreach/cellmig.gif (from icbp.nci.nih.gov/education-and-outreach/computational_models)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/postdoctoral_training.jpg: Permission denied
+15:41:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 12599 got 0): icbp.nci.nih.gov/education-and-outreach/postdoctoral_training.jpg
+15:41:49	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 49036 expected)) at link icbp.nci.nih.gov/education-and-outreach/fertig.jpg (from icbp.nci.nih.gov/education-and-outreach/computational_models)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/workshops.jpg: Permission denied
+15:41:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 37914 got 0): icbp.nci.nih.gov/education-and-outreach/workshops.jpg
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/public-education.jpg: Permission denied
+15:41:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 42746 got 0): icbp.nci.nih.gov/education-and-outreach/public-education.jpg
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/cellmig.gif: Permission denied
+15:41:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 42326 got 0): icbp.nci.nih.gov/education-and-outreach/cellmig.gif
+15:41:49	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 168853 expected)) at link icbp.nci.nih.gov/education-and-outreach/tumour_breast_ani.gif (from icbp.nci.nih.gov/education-and-outreach/computational_models)
+15:41:49	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 367671 expected)) at link icbp.nci.nih.gov/education-and-outreach/AcinusStain.gif (from icbp.nci.nih.gov/education-and-outreach/computational_models)
+15:41:49	Error: 	"Incorrect length (0 Bytes, 12452 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/resources/resources.jpg (from icbp.nci.nih.gov/resources)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/resources/resources.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 35055 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/education-and-outreach/education.jpg (from icbp.nci.nih.gov/education-and-outreach)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/education.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 15872 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/resources/data_portal.jpg (from icbp.nci.nih.gov/resources/data-portal)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/resources/data_portal.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 4208 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/about/dg.jpg (from icbp.nci.nih.gov/contact_us)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/dg.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 4448 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/about/jc.jpg (from icbp.nci.nih.gov/contact_us)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/jc.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 5589 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/about/cs.jpg (from icbp.nci.nih.gov/contact_us)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/cs.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 4888 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/about/jl.jpg (from icbp.nci.nih.gov/contact_us)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/jl.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 5592 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/about/eb.jpg (from icbp.nci.nih.gov/contact_us)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/eb.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 4680 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/about/bt.jpg (from icbp.nci.nih.gov/contact_us)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/about/bt.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 15803 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/resources/biological_resources/bio1.jpg (from icbp.nci.nih.gov/resources/biological_resources)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/resources/biological_resources/bio1.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 73720 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/education-and-outreach/scr.jpg (from icbp.nci.nih.gov/education-and-outreach/summer)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/scr.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 11500 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/education-and-outreach/jr.jpg (from icbp.nci.nih.gov/education-and-outreach/summer)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/jr.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 3917211 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/education-and-outreach/2014_ICBP_Centers_brochure_12.12_2.docx (from icbp.nci.nih.gov/education-and-outreach/summer)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/2014_ICBP_Centers_brochure_12.12_2.docx: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 48203 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/education-and-outreach/copy_of_2014_ICBP_Summer_Project_Descriptions.docx (from icbp.nci.nih.gov/education-and-outreach/summer)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/2014_ICBP_Summer_Project_Descriptions.docx: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 30860 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/education-and-outreach/online_material.jpg (from icbp.nci.nih.gov/education-and-outreach/online)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/online_material.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 24974 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/education-and-outreach/group.jpg (from icbp.nci.nih.gov/education-and-outreach/icbp_contact)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/group.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 40684 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/education-and-outreach/jr_investigators/jr.jpg (from icbp.nci.nih.gov/education-and-outreach/jr_investigators)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/jr_investigators/jr.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 12194 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/education-and-outreach/graduate.jpg (from icbp.nci.nih.gov/education-and-outreach/graduate-education)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/graduate.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 12599 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/education-and-outreach/postdoctoral_training.jpg (from icbp.nci.nih.gov/education-and-outreach/postdoctoral-training)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/postdoctoral_training.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 37914 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/education-and-outreach/workshops.jpg (from icbp.nci.nih.gov/education-and-outreach/workshops)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/workshops.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 42746 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/education-and-outreach/public-education.jpg (from icbp.nci.nih.gov/education-and-outreach/public-education)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/public-education.jpg: Permission denied
+15:41:49	Error: 	"Incorrect length (0 Bytes, 42326 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/education-and-outreach/cellmig.gif (from icbp.nci.nih.gov/education-and-outreach/computational_models)
+15:41:49	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/cellmig.gif: Permission denied
+15:41:50	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/fertig.jpg: Permission denied
+15:41:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 49036 got 0): icbp.nci.nih.gov/education-and-outreach/fertig.jpg
+15:41:50	Error: 	"Incorrect length (0 Bytes, 49036 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/education-and-outreach/fertig.jpg (from icbp.nci.nih.gov/education-and-outreach/computational_models)
+15:41:50	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/fertig.jpg: Permission denied
+15:41:50	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/tumour_breast_ani.gif: Permission denied
+15:41:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 168853 got 0): icbp.nci.nih.gov/education-and-outreach/tumour_breast_ani.gif
+15:41:50	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/AcinusStain.gif: Permission denied
+15:41:50	Warning: 	file not stored in cache due to bogus state (broken size, expected 367671 got 0): icbp.nci.nih.gov/education-and-outreach/AcinusStain.gif
+15:41:50	Error: 	"Incorrect length (0 Bytes, 168853 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/education-and-outreach/tumour_breast_ani.gif (from icbp.nci.nih.gov/education-and-outreach/computational_models)
+15:41:50	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/tumour_breast_ani.gif: Permission denied
+15:41:50	Error: 	"Incorrect length (0 Bytes, 367671 expected)" (-4) after 2 retries at link icbp.nci.nih.gov/education-and-outreach/AcinusStain.gif (from icbp.nci.nih.gov/education-and-outreach/computational_models)
+15:41:50	Error: 	Unable to save file C:/site_migration/icbp_site2/ICBP2/icbp.nci.nih.gov/education-and-outreach/AcinusStain.gif: Permission denied
+
+HTTrack Website Copier/3.48-22 mirror complete in 21 minutes 55 seconds : 706 links scanned, 611 files written (32596188 bytes overall) [33246100 bytes received at 25282 bytes/sec], 4.8 requests per connection
+(142 errors, 127 warnings, 0 messages)

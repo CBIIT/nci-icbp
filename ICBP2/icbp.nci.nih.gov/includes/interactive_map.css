@@ -1,0 +1,146 @@
+<dtml>
+
+
+@charset "UTF-8";
+
+.grey {color: #aaa;}
+
+/*  cancercenter Info   */
+.cancercenter_detail_container { display: none; }
+.cancercenter_detail_container .cancercenter_detail { width: 300px; border: 1px solid #ccc; }
+
+
+/*  Interactive Map Container */
+.map_container {
+	background-image: url(../images/icbp_map_base.jpg);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 280px;
+	position: relative;
+	color: #fff;
+	font-family: Arial;
+	font-size: 12px;
+	margin: 0px 0px 0px 10px;
+	text-align: left;
+}
+
+.map_container .clear_both { clear: both; line-height: 1px; }
+
+.map_container h2 {
+	margin: 0px 0px 0px 0px;
+	font-size: 18px;
+	font-weight: bold;
+}
+.map_container h3 {
+	margin: 0px 0px 12px 0px;
+	font-size: 12px;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	color: #2c3748;
+}
+.map_container p { margin: 0px 0px 12px 0px; }
+
+.map_container a, a:visited { color: #AA0000; margin: 0px 10px 0px 0px; }
+.map_container a.dot {
+	background-image: url(../images/icbp_dots.png);
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 10px;
+	width: 10px;
+	display: block;
+	position: absolute;
+	cursor: pointer;
+        border: none !important;
+}
+/*
+.map_container a.dot.selected {
+	background-position: 0px -40px;
+}
+*/
+.map_container a.dot:hover {
+	background-position: 0px -16px;
+}
+.map_container .form_continent {
+	position: absolute;
+	top: 265px;
+	left: 30px;
+}
+.map_container .form_continent #continent{
+	border:1px solid #cfcfcf;
+	background:#dfdcdf;
+	color: #333;
+	text-shadow:1px 1px 1px #FFF;
+	border-radius:3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+}
+.map_container .detail_container {
+	position: absolute;
+	top: 145px;
+	left: 415px;
+	width: 195px;
+	height: 60px;
+	display:none;
+}
+.map_container .cancercenter_detail {
+	background-color:#dcdcdc;
+        color:#5c5c5c;
+	position: absolute;
+	top: 0px;
+	width: 185px;
+        height:75px;
+	padding: 2px 0px 0px 5px;
+	border: 1px solid #f0f0f0;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+.map_container .map_instructions {
+        font-size:90%;
+        color:#5c5c5c;
+	position: absolute;
+	top:20px;
+        left:415px;
+	width: 190px;
+        height:120px;
+	padding: 2px 0px 0px 5px;
+}
+
+.map_container .map_instructions a, .map_container .map_instructions a:active, .map_container .map_instructions a:visited, .map_container .map_instructions a:hover {
+       color:#419CF7 !important;
+       text-decoration:none;
+       border:none !important;
+       padding:0;
+       margin:0;
+}
+
+
+.map_container .cancercenter_detail h3{
+	float:left;
+	color:#5c5c5c;
+	clear:both;
+	text-shadow: 1px 1px 1px #000;
+}
+.map_container .cancercenter_detail h2, .map_container .cancercenter_detail h2 a {
+	//float:left;
+	color:#419cf7;
+	font-size:12px;
+	clear:both;
+}
+.map_container .cancercenter_detail .cancercenter_photo {
+	float: left;
+	margin: 0px 15px 0px 0px;
+}
+.map_container .cancercenter_detail .cancercenter_info {
+	width: 185px;
+	float: left;
+}
+
+.map_container .cancercenter_detail .cancercenter_info a, .map_container .cancercenter_detail .cancercenter_info a:active, .map_container .cancercenter_detail .cancercenter_info a:visited, .map_container .cancercenter_detail .cancercenter_info a:hover {
+  text-decoration:none !important;
+  border:none !important;
+}
+/* Line classes for cancer centers in smaller states (point from the dot to the state) */
+
+</dtml>
